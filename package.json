@@ -1,0 +1,14 @@
+{
+	"name": "webpack-es2020",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@guardian/libs": "^1.6.3",
+		"webpack": "^5.18.0",
+		"webpack-cli": "^4.4.0"
+	},
+	"scripts": {
+		"build": "webpack --mode=production"
+	}
+}
